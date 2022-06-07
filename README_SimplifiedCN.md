@@ -16,11 +16,11 @@
 
 本软件仅有一个窗口作为主界面，窗口上方显示文本，为软件简介和作者信息。另有一个命令提示符，进行程序运行的提示输出。主界面下设五个功能按钮，具体对应功能如下：
 
-- **Generate OMS Sheet using oa.xlsx：**利用 oa.xlsx 生成 “烽火波分OMS检查（每月）” 表格
-- **Generate OCH Sheet using ocp.xlsx：**利用 ocp.xlsx 生成 “烽火波分OCH光功率检查（每月）” 表格
-- **Generate OPS Sheet using osc.xlsx：**利用 osc.xlsx 生成 “烽火波分OPS检查（每月）” 表格
-- **Generate! ：**一次性生成三个表格（不建议使用，运行速度5分钟，可能因电脑性能原因假死）
-- **Exit：**退出本软件
+- **Generate OMS Sheet using oa.xlsx**：利用 oa.xlsx 生成 “烽火波分OMS检查（每月）” 表格
+- **Generate OCH Sheet using ocp.xlsx**：利用 ocp.xlsx 生成 “烽火波分OCH光功率检查（每月）” 表格
+- **Generate OPS Sheet using osc.xlsx**：利用 osc.xlsx 生成 “烽火波分OPS检查（每月）” 表格
+- **Generate!**：一次性生成三个表格（不建议使用，运行速度5分钟，可能因电脑性能原因假死）
+- **Exit**：退出本软件
 
 ![image-20210809225741880](C:\Users\Marco\AppData\Roaming\Typora\typora-user-images\image-20210809225741880.png)
 
